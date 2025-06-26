@@ -43,7 +43,7 @@ uv run mcp run server.py -t sse
 - Required for Cursor or AI agent use
 
 ## Cursor Config
-Make sure your `.cusor/config.json` contains:
+Make sure your `.cursor/config.json` contains:
 ```
 {
   "mcpServers": {
