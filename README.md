@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/jordyzomer-codeql-mcp-badge.png)](https://mseep.ai/app/jordyzomer-codeql-mcp)
+
 # CodeQL MCP Server
 
 This project runs a Model Context Protocol (MCP) server that wraps the CodeQL query server. It enables tools like [Cursor](https://cursor.sh/) or AI agents to interact with CodeQL through structured commands and doc search.
